@@ -1,0 +1,22 @@
+
+.backgroundImg{
+  width: 100%;
+  height: 100vh;
+  background-color: #101010;
+  opacity: .98;
+}
+
+.banner-area{
+  background-image: url(https://cdn.columbiauniversitybootcamp.com/wp-content/uploads/sites/108/2021/03/CDG_blog_post_image_02-2-850x412.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.container{
+  width: 95%;
+  height: 100%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

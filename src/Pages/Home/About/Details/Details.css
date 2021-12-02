@@ -1,0 +1,24 @@
+.singel-info h4{
+  color: #dadada;
+  font-weight: 400;
+  font-size: 1rem;
+}
+.singel-info h4 span{
+  color: #9f9f9f !important;
+}
+.social-icon a{
+  text-decoration: none;
+  color: #dadada;
+  font-size: 1.34rem;
+  margin: 0 5px;
+  transition: .3s;
+}
+.social-icon a:hover{
+  color: rgb(0, 158, 102);
+}
+
+
+
+@media only screen and (max-width: 600px) {
+
+}
